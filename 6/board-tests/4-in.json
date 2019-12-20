@@ -1,0 +1,20 @@
+[[0,0,0,0,0,0],
+[0,"0bob2",1,0,1,0],
+[0,0,"0bob1",0,0,0],
+[2,0,0,1,"1tim1",0],
+[0,0,0,0,1,0],
+[0,0,0,"0tim2",0,0]]
+["neighbors", "bob1", ["PUT", "NORTH"]]
+["neighbors", "bob1", ["PUT", "SOUTH"]]
+["neighbors", "bob1", ["WEST", "NORTH"]]
+["neighbors", "bob1", ["EAST", "NORTH"]]
+["neighbors", "bob1", ["WEST", "SOUTH"]]
+["neighbors", "bob1", ["EAST", "SOUTH"]]
+["neighbors", "bob1", ["WEST", "PUT"]]
+["neighbors", "bob1", ["EAST", "PUT"]]
+["neighbors", "tim2", ["PUT", "SOUTH"]]
+["move", "tim2", ["EAST", "PUT"]]
+["move", "tim2", ["EAST", "PUT"]]
+["neighbors", "tim2", ["PUT", "SOUTH"]]
+["neighbors", "tim2", ["EAST", "SOUTH"]]
+["neighbors", "tim2", ["EAST", "PUT"]]

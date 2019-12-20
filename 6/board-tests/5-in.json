@@ -1,0 +1,22 @@
+[[0,0,0,0,0,0],
+[2,"3bob2",1,0,1,0],
+[0,0,"2bob1",4,0,0],
+[2,0,0,1,"1tim1",0],
+[0,0,0,0,1,0],
+[0,0,0,"0tim2",0,0]]
+["occupied?", "bob1", ["PUT", "NORTH"]]
+["occupied?", "bob1", ["PUT", "SOUTH"]]
+["occupied?", "bob1", ["WEST", "NORTH"]]
+["occupied?", "bob1", ["EAST", "NORTH"]]
+["occupied?", "bob1", ["WEST", "SOUTH"]]
+["occupied?", "bob1", ["EAST", "SOUTH"]]
+["occupied?", "bob1", ["WEST", "PUT"]]
+["occupied?", "bob1", ["EAST", "PUT"]]
+["height", "bob1", ["PUT", "NORTH"]]
+["height", "bob1", ["PUT", "SOUTH"]]
+["height", "bob1", ["WEST", "NORTH"]]
+["height", "bob1", ["EAST", "NORTH"]]
+["height", "bob1", ["WEST", "SOUTH"]]
+["height", "bob1", ["EAST", "SOUTH"]]
+["height", "bob1", ["WEST", "PUT"]]
+["height", "bob1", ["EAST", "PUT"]]

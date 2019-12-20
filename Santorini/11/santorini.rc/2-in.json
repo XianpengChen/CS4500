@@ -1,0 +1,4 @@
+{ "players" : [["good", "tom", "../../Player/src/player/Player"],
+  ["good", "ryan", "../../Player/src/player/Player"],
+  ["good", "TOM", "../../Player/src/player/Player"]],
+  "observers" : []}

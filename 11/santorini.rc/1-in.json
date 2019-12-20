@@ -1,0 +1,5 @@
+{ "players" : [["good", "tom", "../../Player/src/player/Player"],
+  ["infinite", "jack", "../../Player/src/player/InfinitePlacePlayer"],
+  ["infinite", "ryan", "../../Player/src/player/InfiniteTurnPlayer"],
+  ["good", "jack", "../../Player/src/player/Player"]],
+  "observers" : []}

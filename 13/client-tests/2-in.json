@@ -1,0 +1,7 @@
+{"players" : [["good", "foobar", "../../Player/src/player/Player"],
+  ["good", "barfoo", "../../Player/src/player/Player"],
+  ["good", "barfus", "../../Player/src/player/Player"],
+  ["good", "cat", "../../Player/src/player/Player"]],
+  "observers" : [],
+  "ip": "127.0.0.1",
+  "port": 55556}

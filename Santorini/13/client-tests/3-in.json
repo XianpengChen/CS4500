@@ -1,0 +1,7 @@
+{"players" : [["good", "foobar", "../../Player/src/player/Player"],
+  ["good", "barfoo", "../../Player/src/player/Player"],
+  ["breaker", "barfus", "../../Player/src/player/BreakerPlayer"],
+  ["breaker", "cat", "../../Player/src/player/BreakerPlayer"]],
+  "observers" : [],
+  "ip": "antarctica.ccs.neu.edu",
+  "port": 55556}

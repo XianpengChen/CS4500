@@ -1,0 +1,6 @@
+{"players" : [["good", "foobar", "../../Player/src/player/Player"],
+  ["infinite", "barfoo", "../../Player/src/player/InfinitePlacePlayer"],
+  ["infinite", "barfus", "../../Player/src/player/InfiniteTurnPlayer"]],
+  "observers" : [],
+  "ip": "antarctica.ccs.neu.edu",
+  "port": 55556}

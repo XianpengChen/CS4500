@@ -1,0 +1,10 @@
+["jack", "ryan"]
+[["winner": "tom", "loser": "jack"],
+  ["winner": "tom", "loser": "jack"],
+  ["winner": "tom", "loser": "jack"],
+  ["winner": "tom", "loser": "ryan"],
+  ["winner": "tom", "loser": "ryan"],
+  ["winner": "tom", "loser": "ryan"],
+  ["winner": "tom", "loser": "jack3"],
+  ["winner": "tom", "loser": "jack3"],
+  ["winner": "tom", "loser": "jack3"]]

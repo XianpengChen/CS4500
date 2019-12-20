@@ -1,0 +1,6 @@
+{"players" : [["infinite", "foobar", "../../Player/src/player/InfinitePlacePlayer"],
+  ["infinite", "barfoo", "../../Player/src/player/InfinitePlacePlayer"],
+  ["infinite", "barfus", "../../Player/src/player/InfiniteTurnPlayer"]],
+  "observers" : [],
+  "ip": "127.0.0.1",
+  "port": 55556}

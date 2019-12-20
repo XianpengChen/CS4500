@@ -1,0 +1,4 @@
+{ "min players" : 4,
+  "port"        : 55556,
+  "waiting for" : 6,
+  "repeat" : 0}

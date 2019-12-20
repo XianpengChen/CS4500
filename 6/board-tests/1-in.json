@@ -1,0 +1,14 @@
+[[0,0,0,0,0,0],
+  [0,"0bob2",0,0,0,0]
+  [0,0,"0bob1",0,0,0]
+  [0,0,0,0,"0tim1",0]
+  [0,0,0,0,0,0],
+  [0,0,0,"0tim2",0,0]]
+["neighbors", "bob1", ["PUT", "NORTH"]]
+["occupied?", "bob1", ["PUT", "NORTH"]]
+["height", "bob1", ["PUT", "NORTH"]]
+["move", "bob1", ["PUT", "NORTH"]]
+["neighbors", "bob1", ["EAST", "PUT"]]
+["occupied?", "bob1", ["EAST", "PUT"]]
+["height", "bob1", ["EAST", "PUT"]]
+["build", "bob1", ["EAST", "PUT"]]
